@@ -1,21 +1,22 @@
-Welcome to CyanogenMod for Motorola Droid and HTC Incredible on Freenode
-===========
+Welcome to CyanogenMod IRC 
 
+===========
 Stable
 ------------------
-[Motorola Droid 6.1.2++ with Maps fix:](http://bit.ly/iftEwK)
-Do NOT submit bug reports for this - it is only temporary until nightly of 12/17 is built
+DS/Hero/Inc/Legend/One/Wildfire 6.1.0
+Aria/EVO/Desire/G2/N1/Slide/z71 6.1.1
+Droid 6.1.2
 
-[HTC Incredible 6.1.0](http://goo.gl/cEsJh)
+http://mirror.teamdouche.net/?type=stable 
 
 Other useful links
 ------------------
 
-[Froyo Google Apps](http://android.d3xt3r01.tk/cyanogen/gapps/gapps-hdpi-20101114-signed.zip)
+[Froyo Google Apps](http://goo.gl/kKxxd)
+[Forum](http://goo.gl/WpNQ)
+[Wiki](http://goo.gl/fUQ4)
+[Changelog](http://goo.gl/vCoz)
+[Nightly-Changelog](http://twitter.com/#!/cmsrc)
 
-[Forum](http://bit.ly/fxs1eP)
 
-[Wiki](http://bit.ly/hQ40Kn)
-
-For other links use koushbag: !learnlist and !lhelp
 
