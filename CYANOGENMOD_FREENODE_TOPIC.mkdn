@@ -4,10 +4,12 @@ Welcome to CyanogenMod IRC
 Stable
 ------------------
 DS/Hero/Inc/Legend/One/Wildfire 6.1.0
+
 Aria/EVO/Desire/G2/N1/Slide/z71 6.1.1
+
 Droid 6.1.2
 
-http://mirror.teamdouche.net/?type=stable 
+[Download](http://mirror.teamdouche.net/?type=stable)
 
 Other useful links
 ------------------
