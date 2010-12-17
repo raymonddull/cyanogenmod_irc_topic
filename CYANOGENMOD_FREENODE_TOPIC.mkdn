@@ -1,6 +1,6 @@
 Welcome to CyanogenMod IRC 
-
 ===========
+
 Stable
 ------------------
 DS/Hero/Inc/Legend/One/Wildfire 6.1.0
