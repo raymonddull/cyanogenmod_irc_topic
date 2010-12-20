@@ -11,6 +11,10 @@ Droid/z71 6.1.2
 
 [Download](http://mirror.teamdouche.net/?type=stable)
 
+Experimental
+------------------
+MT4G 6.2.0 RC0
+
 Other useful links
 ------------------
 
