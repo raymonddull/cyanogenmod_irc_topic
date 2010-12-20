@@ -13,7 +13,7 @@ Droid/z71 6.1.2
 
 Experimental
 ------------------
-MT4G 6.2.0 RC0
+[MT4G 6.2.0 RC0](http://goo.gl/2gVN0)
 
 Other useful links
 ------------------
