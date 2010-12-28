@@ -7,7 +7,7 @@ DS/Hero/Inc/Legend/One/Wildfire 6.1.0
 
 Aria/EVO/Desire/G2/N1/Slide 6.1.1
 
-Droid/z71 6.1.2
+Droid/DesireHD/z71 6.1.2
 
 [Download](http://mirror.teamdouche.net/?type=stable)
 
