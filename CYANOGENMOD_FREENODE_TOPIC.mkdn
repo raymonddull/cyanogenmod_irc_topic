@@ -15,12 +15,17 @@ DesireHD 6.1.3
 
 Experimental
 ------------------
-[MT4G 6.1.2 RC2](http://goo.gl/2gVN0)
+[MT4G 6.1.2 RC2](http://goo.gl/QZiU)
+
+Nightlies (CM7)
+------------------
+[No Bug Reports!](http://goo.gl/kKxxd)
+
 
 Other useful links
 ------------------
 
-[Froyo Google Apps](http://goo.gl/kKxxd)
+[Google Apps](http://goo.gl/kKxxd)
 [Forum](http://goo.gl/WpNQ)
 [Wiki](http://goo.gl/fUQ4)
 [Changelog](http://goo.gl/vCoz)
