@@ -25,7 +25,7 @@ Nightlies (CM7)
 Other useful links
 ------------------
 
-[Google Apps](http://goo.gl/kKxxd)
+[Google Apps](http://goo-inside.me/gapps/))
 [Forum](http://goo.gl/WpNQ)
 [Wiki](http://goo.gl/fUQ4)
 [Changelog](http://goo.gl/vCoz)
