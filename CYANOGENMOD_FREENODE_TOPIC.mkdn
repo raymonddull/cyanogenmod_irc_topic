@@ -1,15 +1,16 @@
 Welcome to CyanogenMod IRC
 ===========
 
-Current Stable Versions:
+Stable Versions
 ------------------
-DS/Hero/Inc/Legend/One/Wildfire 6.1.0
 
-Aria/Desire/G2/N1/Slide 6.1.1
+DS/Hero/Inc/Legend/One/Wildfire - 6.1.0
 
-Droid/EVO/z71 6.1.2
+Aria/Desire/G2/N1/Slide - 6.1.1
 
-DesireHD 6.1.3
+Droid/EVO/z71 - 6.1.2
+
+DesireHD - 6.1.3
 
 Downloads
 ------------------
