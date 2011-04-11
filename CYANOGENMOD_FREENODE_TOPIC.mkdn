@@ -6,7 +6,9 @@ Stable Versions
 
 Droid - 6.1.2
 
-Aria/Blade/Desire(c)/DHD/Evo/G2/Hero(c)/Incredible/Legend/MT4G/N1/NS/One/Shift/Slide/Tattoo/Wildfire/z71/Zero
+Aria/Blade/Desire(c)/DHD/Evo/G2/Hero(c)/Incredible - 7.0.0
+
+Legend/MT4G/N1/NS/One/Shift/Slide/Tattoo/Wildfire/z71/Zero - 7.0.0
 
 Gtablet/Nook - 7.0.0
 
