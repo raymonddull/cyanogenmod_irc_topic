@@ -4,21 +4,20 @@ Welcome to CyanogenMod IRC
 Stable Versions
 ------------------
 
-Droid - 6.1.2
+Ace/Aria/Blade/Droid/G2/Heroc - 7.0.2
 
-Aria/Blade/Desire(c)/DHD/Evo/G2/Hero(c)/Incredible - 7.0.0
+Legend/MT4G/NS/One/Slide/Tattoo/Wildfire/z71/Zero - 7.0.2
 
-Legend/MT4G/N1/NS/One/Shift/Slide/Tattoo/Wildfire/z71/Zero - 7.0.0
+Gtablet/Nook - 7.0.2
 
-Gtablet/Nook - 7.0.0
+Desire(c)/Evo/Inc/N1/Shift - 7.0.2.1
 
 Downloads
 ------------------
 
-[Stable (CM7)](http://mirror.teamdouche.net/?type=stable)
+[Stable (CM7)](http://mirror.download.com/?type=stable)
 
-[Release Candidates (CM7-RC4)](http://mirror.teamdouche.net/?type=RC)
-
+[Release Candidates] None at this time
 [Nightly Builds(CM7.x)](http://mirror.teamdouche.net/?type=nightly) (No Bug Reports!)
 
 
