@@ -18,6 +18,7 @@ Downloads
 [Stable (CM7)](http://mirror.download.com/?type=stable)
 
 [Release Candidates] None at this time
+
 [Nightly Builds(CM7.x)](http://mirror.teamdouche.net/?type=nightly) (No Bug Reports!)
 
 
