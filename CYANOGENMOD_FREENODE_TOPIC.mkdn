@@ -1,25 +1,22 @@
-Welcome to CyanogenMod IRC
+Welcome to CyanogenMod IRC!
 ===========
 
 Stable Versions
 ------------------
 
-Ace/Aria/Blade/Droid/G2/Heroc - 7.0.2
+7.0.3 - Ace, Blade, Bravo(c), Buzz, Click, Crespo, Encore, Espresso, Harmony, HeroC, Inc, Glacier, Liberty, Legend, One, Sholes, Speedy, Supersonic, Passion, Vision, Z71, Zero
 
-Legend/MT4G/NS/One/Slide/Tattoo/Wildfire/z71/Zero - 7.0.2
+6.1.0 - Dream, Sapphire, Hero
 
-Gtablet/Nook - 7.0.2
-
-Desire(c)/Evo/Inc/N1/Shift - 7.0.2.1
 
 Downloads
 ------------------
 
-[Stable (CM7)](http://mirror.download.com/?type=stable)
+[Stable (CM 7.0.x)](http://download.cyanogenmod.com/?type=stable)
 
-[Release Candidates] None at this time
+[Release Candidates] (http://download.cyanogenmod.com/?type=RC)
 
-[Nightly Builds(CM7.x)](http://mirror.teamdouche.net/?type=nightly) (No Bug Reports!)
+[Nightly Builds(CM 7.1.x)](http://download.cyanogenmod.com/?type=nightly) (Do Not Submit Bug Reports!)
 
 
 Other useful links
@@ -30,6 +27,6 @@ Other useful links
 
 [Wiki](http://goo.gl/fUQ4)
 
-[Changelog](http://goo.gl/vCoz)
+[Release Changelog](http://goo.gl/vCoz)
 
-[Unofficial Nightly-Changelog](http://cm-nightlies.appspot.com)
+[Nightly Changelog](http://cm-nightlies.appspot.com)
